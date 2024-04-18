@@ -12,6 +12,11 @@ draft: false
 
 This blog template is built with [Astro](https://astro.build/). For the things that are not mentioned in this guide, you may find the answers in the [Astro Docs](https://docs.astro.build/).
 
+
+## 博客主题及其选取原因
+## 博客页面布局及其设计思路
+## 博客功能实现及其技术选择
+## 博客制作过程中遇到的问题及其解决方法
 ## Front-matter of Posts
 
 ```yaml
