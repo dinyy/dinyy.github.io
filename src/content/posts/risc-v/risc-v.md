@@ -3,8 +3,8 @@ title: risc-v学习资料
 published: 2024-04-21
 description: ''
 image: ''
-tags: []
-category: ''
+tags: [risc-v]
+category: 'risc-v'
 draft: false 
 ---
 
