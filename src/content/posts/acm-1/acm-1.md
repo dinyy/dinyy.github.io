@@ -9,6 +9,9 @@ draft: false
 ---
 ## 题面
 [https://ac.nowcoder.com/acm/contest/6112/E](https://ac.nowcoder.com/acm/contest/6112/E)
+
+![在这里插入图片描述](./pic-acm-1-2.png)
+
 ## 题意
 求在一个序列中有几个【L,R】满足a[l]是这个序列的次小值，a[r]是这个区间的次大值
 ## 思路
