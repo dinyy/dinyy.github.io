@@ -13,7 +13,7 @@ draft: false
 
 
 ## 一、博客主题及其选取原因
-博客最终选取了[Fuwari](https://github.com/saicaca/fuwari)该模板，选择原因是因为这个模板比较美观，改模板基于[Astro](https://astro.build/)和[Tailwind CSS](https://tailwindcss.com/),网上教程比较少，最终根据仓库中的使用教程和Astro的官方部署教程成功搭建
+博客最终选取了[Fuwari](https://github.com/saicaca/fuwari)该模板，选择原因是因为这个模板比较美观，该模板基于[Astro](https://astro.build/)和[Tailwind CSS](https://tailwindcss.com/)，网上教程比较少，最终根据仓库中的使用教程和Astro的官方部署教程成功搭建。
 
 ## 二、fork Fuwari仓库
 ![这是图片](./pic-guild-1.png "Magic Gardens")
