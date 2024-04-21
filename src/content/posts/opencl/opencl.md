@@ -11,7 +11,7 @@ draft: false
 # 一、背景
 <font color=red>OpenCL用来干嘛的？为什么要用OpenCL？</font>
 
-[图片]
+![这是图片](./pic-opencl-1.PNG "Magic Gardens")
 OpenCL标准只是在C和C++的基础之上，扩展定义了一些数据类型，数据结构以及函数罢了。尽管开发人员已经针对Java和Python设计了一系列的OpenCL接口库，但标准中只要求OpenCL框架提供C和C++编写的API。
 OpenCL是为了实现异构编程，所谓异构编程，就是将不同厂家、不同架构的芯片放在一个统一的计算机系统中，通过软件的调度，来实现计算的一种方式。比如将x86的CPU和英伟达的GPU放在一起进行编程。
 多核的未来：异构平台
