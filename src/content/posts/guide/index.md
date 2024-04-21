@@ -1,6 +1,6 @@
 ---
-title: Simple Guides for Fuwari
-published: 2024-09-01
+title: 博客搭建总结
+published: 2024-04-22
 description: "How to use this blog template."
 image: "./cover.jpeg"
 tags: ["Fuwari", "Blogging", "Customization"]
@@ -14,10 +14,7 @@ This blog template is built with [Astro](https://astro.build/). For the things t
 
 
 ## 博客主题及其选取原因
-## 博客页面布局及其设计思路
-## 博客功能实现及其技术选择
-## 博客制作过程中遇到的问题及其解决方法
-## Front-matter of Posts
+博客最终选取了[Fuwari](https://github.com/saicaca/fuwari)该模板，选择原因是因为这个模板比较美观，改模板基于[Astro](https://astro.build/)和[Tailwind CSS](https://tailwindcss.com/),网上教程比较少，最终根据仓库中的使用教程和Astro的官方部署教程成功搭建
 
 ```yaml
 ---
