@@ -4,7 +4,7 @@ published: 2024-04-18
 description: ''
 image: './pic-index.jpg'
 tags: [OpenCL]
-category: ''
+category: '学习总结'
 draft: false 
 ---
 
