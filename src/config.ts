@@ -24,7 +24,7 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.About,
     {
       name: 'GitHub',
-      url: 'https://github.com/diny',
+      url: 'https://github.com/dinyy',
       external: true,
     },
   ],
