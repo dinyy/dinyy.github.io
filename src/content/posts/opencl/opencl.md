@@ -2,7 +2,7 @@
 title: OpenCL
 published: 2024-04-18
 description: ''
-image: ''
+image: './pic-index.jpg'
 tags: [OpenCL]
 category: ''
 draft: false 
