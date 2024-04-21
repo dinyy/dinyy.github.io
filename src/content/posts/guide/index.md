@@ -143,3 +143,22 @@ jobs:
 2. 选择 `GitHub Actions` 作为你网站的 `Source`，然后按 `Save`。
 3. 提交（commit）这个新的“工作流程文件”（workflow file）并将其推送到 GitHub。
 
+## 遇到的问题以及解决方案
+1. 一开始的时候直接部署失败
+根据`github Action`给出的报错信息，找到了对应的配置信息，修改完成
+2. 图片路径问题
+部署到github上和部署到本地的时候路径有些问题，修改相关路径即可
+
+## 页面展示
+1. 根据时间线显示发布的博客（点击目录可以看到每个时间线下的博客）
+![这是图片](./pic-guild-3.png "Magic Gardens")
+2. about页面
+![这是图片](./pic-guild-4.png "Magic Gardens")
+3. 技术博客
+![这是图片](./pic-guild-5.png "Magic Gardens")
+4. 学习资料（视频功能展现）
+![这是图片](./pic-guild-6.png "Magic Gardens")
+
+## 总结
+该博客网站是用于技术博客总结和学习资料整理，可以方便整理相关领域的知识并进行分享
+
